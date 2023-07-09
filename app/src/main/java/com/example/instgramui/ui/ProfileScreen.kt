@@ -237,6 +237,7 @@ fun RoundedImage(
                 1.dp, Color.LightGray, CircleShape
             )
             .padding(3.dp)
+
             .clip(CircleShape)
     )
 }
